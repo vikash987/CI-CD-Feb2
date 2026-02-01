@@ -1,5 +1,3 @@
-ci/cd with pytest:
-
 name: Python CI Pipeline
 
 on:
