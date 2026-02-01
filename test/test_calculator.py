@@ -1,4 +1,4 @@
-from aap.calculator import add,substract
+from app.calculator import add,substract
 
 # from aap -> folder 
 # calculator -> file 
